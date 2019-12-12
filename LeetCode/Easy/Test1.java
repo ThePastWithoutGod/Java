@@ -1,5 +1,9 @@
 package leetcode.NumArry;
 
+/**
+*   暴力循环数组
+*/
+
 public class Test1 {
     public int[] twoSum(int[] nums, int target)
     {
